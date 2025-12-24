@@ -1,0 +1,1 @@
+Gigasecond ← datetime +1E9 un datetime
